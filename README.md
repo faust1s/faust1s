@@ -1,6 +1,6 @@
 ## Hi, i'm Faustas 👋
 
-Software developer based in Norway.
+Software Developer based in Norway.
 
 I turn ideas into fully built products from zero to production.
 
