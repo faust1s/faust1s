@@ -1,15 +1,16 @@
-## Hey there 👋
+## Hi, I'm Faustas 👋
 
-I'm Faustas, a software developer based in Norway.
+--------
 
-I can get your ideas done from zero to fully completed
+Software developer based in Norway.
 
-This is a fresh profile where i will be uploading some of my smaller public projects, experiments, and things i'm currently working on.
-Everything here is built from scratch, no copypaste templates.
+I turn ideas into fully built products—from zero to production.
+
+This is a fresh profile where I'll be sharing smaller public projects, experiments, and things I'm currently building. Everything here is built from scratch with a focus on clean architecture and maintainable code.
+
+I'm always exploring new technologies, solving interesting problems, and building things that are both useful and enjoyable to create.
 
 -----------------
-asd
-
 
 <!--
 **faust1s/faust1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
