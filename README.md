@@ -2,7 +2,7 @@
 
 Software developer based in Norway.
 
-I turn ideas into fully built products—from zero to production.
+I turn ideas into fully built products from zero to production.
 
 This is a fresh profile where I'll be sharing smaller public projects, experiments, and things I'm currently building. Everything here is built from scratch with a focus on clean architecture and maintainable code.
 
