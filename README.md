@@ -7,7 +7,8 @@ I can get your ideas done from zero to fully completed
 This is a fresh profile where i will be uploading some of my smaller public projects, experiments, and things i'm currently working on.
 Everything here is built from scratch, no copypaste templates.
 
--
+-----------------
+asd
 
 
 <!--
