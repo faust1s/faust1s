@@ -1,4 +1,4 @@
-## Hi, I'm Faustas 👋
+## Hi, i'm Faustas 👋
 
 Software developer based in Norway.
 
