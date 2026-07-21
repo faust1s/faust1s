@@ -1,6 +1,6 @@
 ## Hi, i'm Faustas 👋
 
-Currently learning Software Development, studying Applied Artificial Intelligence.
+Currently studying Applied Artificial Intelligence, with a focus on software development, machine learning, and the broader AI ecosystem.
 
 I turn ideas into fully built products from zero to production.
 
