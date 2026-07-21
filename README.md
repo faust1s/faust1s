@@ -1,6 +1,6 @@
 ## Hi, i'm Faustas 👋
 
-Currently learning Software Development
+Currently learning Software Development, studying Applied Artificial Intelligence.
 
 I turn ideas into fully built products from zero to production.
 
