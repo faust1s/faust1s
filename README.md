@@ -6,7 +6,7 @@ I turn ideas into fully built products from zero to production.
 
 This is a fresh profile where I'll be sharing smaller public projects, experiments, and things I'm currently building. Everything here is built from scratch with a focus on clean architecture and maintainable code.
 
-I'm always exploring new technologies, solving interesting problems, and building things that are both useful and enjoyable to create
+I'm always exploring new technologies, solving interesting problems, and building things that are both useful and enjoyable to create.
 
 -----------------
 
