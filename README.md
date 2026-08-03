@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently studying Applied Artificial Intelligence with a focus on software development, machine learning, and the broader AI ecosystem.<br>👯 Looking to collaborate on your projects!<br>⚡ Always exploring new technologies, solving interesting problems, and building things that are both useful and enjoyable to create.<br><br>This is a fresh profile where I'll be sharing smaller public projects, experiments, and things I'm currently building. Everything here is built from scratch with a focus on clean architecture and maintainable code
+🔭 Currently learning Applied Artificial Intelligence with a focus on software development, machine learning, and the broader AI ecosystem.<br>👯 Looking to collaborate on your projects!<br>⚡ Always exploring new technologies, solving interesting problems, and building things that are both useful and enjoyable to create.<br><br>This is a fresh profile where I'll be sharing smaller public projects, experiments, and things I'm currently building. Everything here is built from scratch with a focus on clean architecture and maintainable code
 
 
 ## 🌐 Socials:
